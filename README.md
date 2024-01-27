@@ -4,9 +4,9 @@
   <h3 align="center">A Fullstack Odoo Developer at HCMC</h3>
 </p>
 
-- ✍ I graduated at HCMC University of Technology and Education
+- 🏫 I graduated at HCMC University of Technology and Education
   
-- ✍ My major is computer engineer 
+- 🖥 My major is computer engineer 
 
 <br />
 
