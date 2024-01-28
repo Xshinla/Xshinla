@@ -10,7 +10,7 @@
 
 <br />
 
-# 📫 How to reach me
+# 📫 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/xshinla" target="_blank">
